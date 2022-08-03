@@ -1,0 +1,31 @@
+body {
+    background: rgb(21, 180, 243);
+}
+table {
+    margin: auto;
+    border-collapse: separate;
+    border-spacing: 8px;
+    background: rgb(99, 156, 45);
+    color: rgb(160, 29, 29);
+    font-size: 140%;
+    font-family: Lucida Sans;
+    
+ }
+ td, th {
+    background: rgb(157, 208, 228);
+    color: #000;
+    text-align:start;
+ }
+
+h1 {
+    text-align: center;
+    font-family: century;
+}
+h2 {
+    font-family: monospace;
+}
+h3 {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 200%;
+}
